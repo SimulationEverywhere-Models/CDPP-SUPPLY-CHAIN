@@ -1,0 +1,1 @@
+simu.exe  -mASSEMBLING.MA -oASSEMBLING.out -lASSEMBLING.log

@@ -1,0 +1,1 @@
+simu.exe  -mWAREHOUSE.MA -oWAREHOUSE_case2.out -lWAREHOUSE_case2.log

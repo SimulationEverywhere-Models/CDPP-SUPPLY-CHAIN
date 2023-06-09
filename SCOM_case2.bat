@@ -1,0 +1,1 @@
+simu.exe  -mSCOM.MA -oSCOM_case2.out -lSCOM_case2.log

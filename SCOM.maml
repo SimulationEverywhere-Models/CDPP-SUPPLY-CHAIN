@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDPlusPlus_Builder_Version_1.0.0>
+  <top>
+    <components> warehouse@Warehouse manufacturer
+      transportation@Transportation </components>
+    <out> out1 </out>
+    <out> out2 </out>
+    <out> out3 </out>
+    <in> in </in>
+    <Link> in win1@warehouse </Link>
+    <Link> wout1@warehouse  tin@transportation </Link>
+    <Link> tout2@transportation  win3@warehouse </Link>
+    <Link> tout1@transportation  min@manufacturer </Link>
+    <Link> mout2@manufacturer  win2@warehouse </Link>
+    <Link> mout2@manufacturer  out2 </Link>
+    <Link> wout2@warehouse  out3 </Link>
+    <Link> mout1@manufacturer  out1 </Link>
+  </top>
+</CDPlusPlus_Builder_Version_1.0.0>
